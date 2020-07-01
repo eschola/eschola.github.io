@@ -22,12 +22,11 @@ Qeydiyyatdan keçərkən qeydiyyat səhifəsindən şərtlərə keçib  tanış 
 <h2>3. Öyrənmə üçün istifadə</h2>
 Portalda istənilən şəxslərin, o cümlədən hər hansı təhsil müəssisəsində müəllim kimi işləyən şəxsin kurs tərtib edib yayımlaması mümkündür. Belə şəxslərin təqdim etdiyi kurslardan istifadə portalı təhsil müəssisəsi etmir.
 
-4. Beynəlxalq serverlər və fərdi məlumatlar
-<p style=text-align:justify;>Portal inzibatçıları və serverləri Amerika Birləşmiş Ştatlarında, Azərbaycan Respublikasında və digər ölkələrdə fəaliyyət göstərir və ya yerləşir. İstifadəçi onun fərdi məlumatlarının, habelə portaldakı bütün digər məzmun və məlumatların portalın funksionallığının imkan verdiyi həddə bu ölkələrdə toplanması, ötürülməsi, istifadəsi, saxlanması və emalına razılıq verir.</p>
+<h2>4. Beynəlxalq serverlər və fərdi məlumatlar</h2>
+Portal inzibatçıları və serverləri Amerika Birləşmiş Ştatlarında, Azərbaycan Respublikasında və digər ölkələrdə fəaliyyət göstərir və ya yerləşir. İstifadəçi onun fərdi məlumatlarının, habelə portaldakı bütün digər məzmun və məlumatların portalın funksionallığının imkan verdiyi həddə bu ölkələrdə toplanması, ötürülməsi, istifadəsi, saxlanması və emalına razılıq verir.
 
-
-5. Məxfilik Siyasəti
-<p style=text-align:justify;>Portalın <a href="https://eschola.net/privacy">Məxfilik Siyasəti</a> (<i>baxmaq üçün mətnin üzərindəki linkə keçid edin</i>) şərtlərin ayrılmaz tərkib hissəsidir. İstifadəçi Məxfilik Siyasətini oxumalıdır. İstifadəçidən gözlənilir ki, Məxfilik Siyasətindən xəbərdar olsun. Digər xüsuslarla birlikdə Məxfilik Siyasəti istifadəçinin fərdi məlumatlarının necə idarə olunmasından, portaldan istifadə zamanı məxfiliyin necə təmin olunmasından bəhs edir. </p>
+<h2>5. Məxfilik Siyasəti</h2>
+Portalın <a href="https://eschola.net/privacy">Məxfilik Siyasəti</a> (<i>baxmaq üçün mətnin üzərindəki linkə keçid edin</i>) şərtlərin ayrılmaz tərkib hissəsidir. İstifadəçi Məxfilik Siyasətini oxumalıdır. İstifadəçidən gözlənilir ki, Məxfilik Siyasətindən xəbərdar olsun. Digər xüsuslarla birlikdə Məxfilik Siyasəti istifadəçinin fərdi məlumatlarının necə idarə olunmasından, portaldan istifadə zamanı məxfiliyin necə təmin olunmasından bəhs edir.
 
 <h2>6. Şərtlərdə dəyişiklik edilməsi</h2>
 İstifadəçi hesabından istifadə edərkən şərtləri portalda mövcud olduğu kimi qəbul edir. Portal inzibatçısı və ya sahibi öz mülahizəsinə görə şərtlərə istənilən vaxt dəyişiklik edə bilər. Hesab açdıqdan sonra dəyişikliklərdən mütəmadi xəbərdar olmaq üçün istifadəçi şərtlərin olduğu səhifəni davamlı yoxlamalıdır. Əhəmiyyətli dəyişikliklər barədə istifadəçinin məlumatlandırılması üçün hesaba bağlı emailə göndəriş, portalda şərtlər səhifəsində paylaşım və digər bu kimi vasitələrlə ağlabatan dərəcədə səy göstəriləcəkdir.
