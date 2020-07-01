@@ -1,2 +1,2 @@
-# eschola.github.io
+# eschola.net
 İstifadə Şərtlərinin Mətni
