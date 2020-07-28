@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   İstifadə Şərtləri | <a href="https://eschola.net">eschola.net</a>
@@ -18,7 +17,7 @@ Portalın missiyası hər kəsin sahib olduğu peşəkar və ya akademik bilik, 
 Qeydiyyatdan keçərkən qeydiyyat səhifəsindən şərtlərə keçib  tanış olmaq üçün müvafiq keçid (hiperlink) təmin olunur. İstifadəçi portalda hesab açmaqla və ya portaldan hər hansı formada istifadə etməklə təsdiq edir ki, portaldan istifadə etmək üçün istifadəçinin bu zaman mövcud olduğu dövlətin qanunvericiliyi ilə portaldan istifadə etməyə hüququ vardır.
 
 <h2>2. Hesab</h2>
-İstifadəçi portalın müəyyən funksiyalarından istifadə etmək üçün hesabını qeydiyyatdan keçirməlidir. Qeydiyyatdan keçərkən istifadəçi hesab üçün şifrə müəyyən etməlidir. İstifadəçi bu xüsusda hesabının və şifrəsinin məxfiliyinin təmin olunmasına və saxlanmasına, habelə açılmış hesab və müəyyən olunmuş şifrə ilə aparılan bütün əməliyyatlara görə şəxsən məsuliyyət daşıyır. İstifadəçi portalda qeydiyyat zamanı daxil edilən, o cümlədən sonradan tələb və müvafiq olaraq təqdim olunan məlumatların düzgünlüyünə, dəqiqliyinə, cariliyinə və tamlığına təminat verir, bu məlumatlarda hər hansı dəyişiklik olarsa portalda müvafiq olaraq yeniləməyə razı olur. İstifadəçinin hesab məlumatlarının və ya şifrəsinin oğurlanması zamanı istifadəçi <a href="https://eschola.net/contact">Əlaqə</a> səhifəsi vasitəsilə portal inzibatçısını məlumatlandırmalıdır. 
+İstifadəçi portalın müəyyən funksiyalarından istifadə etmək üçün hesabını qeydiyyatdan keçirməlidir. Qeydiyyatdan keçərkən istifadəçi hesab üçün şifrə müəyyən etməlidir. İstifadəçi bu xüsusda hesabının və şifrəsinin məxfiliyinin təmin olunmasına və saxlanmasına, habelə açılmış hesab və müəyyən olunmuş şifrə ilə aparılan bütün əməliyyatlara görə şəxsən məsuliyyət daşıyır. İstifadəçi portalda qeydiyyat zamanı daxil edilən, o cümlədən sonradan tələb və müvafiq olaraq təqdim olunan məlumatların düzgünlüyünə, dəqiqliyinə, cariliyinə və tamlığına təminat verir, bu məlumatlarda hər hansı dəyişiklik olarsa portalda müvafiq olaraq yeniləməyə razı olur. İstifadəçinin hesab məlumatlarının və ya şifrəsinin oğurlanması zamanı istifadəçi <a href="https://eschola.net/contact">Əlaqə</a> səhifəsi vasitəsilə portal inzibatçısını məlumatlandırmalıdır.
 
 <h2>3. Öyrənmə üçün istifadə</h2>
 Portalda istənilən şəxslərin, o cümlədən hər hansı təhsil müəssisəsində müəllim kimi işləyən şəxsin kurs tərtib edib yayımlaması mümkündür. Belə şəxslərin təqdim etdiyi kurslardan istifadə portalı təhsil müəssisəsi etmir.
