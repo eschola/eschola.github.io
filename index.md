@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
   İstifadə Şərtləri | <a href="https://eschola.net">eschola.net</a>
 </head>
@@ -14,7 +15,7 @@ Bu İstifadə Şərtləri (“istifadə şərtləri” və ya “şərtlər”) 
 Portalın missiyası hər kəsin sahib olduğu peşəkar və ya akademik bilik, savad və bacarığı kurs formatında pulsuz və ya pullu təqdim etməsinə imkan yaratmaq və hər kəsin mövcud kurslar vasitəsilə yeni bilik, savad və bacarıq öyrənmək və ya mövcud bilik, savad və bacarığını təkmilləşdirməsinə şərait yaratmaqdır. İstifadə şərtlərinin məqsədi portalın davamlı fəaliyyətini təmin etməkdir.
 
 <h2>1. Hesabın açılması</h2>
-Qeydiyyatdan keçərkən qeydiyyat səhifəsindən şərtlərə keçib  tanış olmaq üçün müvafiq keçid (hiperlink) təmin olunur. İstifadəçi portalda hesab açmaqla və ya portaldan hər hansı formada istifadə etməklə təsdiq edir ki, portaldan istifadə etmək üçün istifadəçinin bu zaman mövcud olduğu dövlətin qanunvericiliyi ilə portaldan istifadə etməyə hüququ vardır. 
+Qeydiyyatdan keçərkən qeydiyyat səhifəsindən şərtlərə keçib  tanış olmaq üçün müvafiq keçid (hiperlink) təmin olunur. İstifadəçi portalda hesab açmaqla və ya portaldan hər hansı formada istifadə etməklə təsdiq edir ki, portaldan istifadə etmək üçün istifadəçinin bu zaman mövcud olduğu dövlətin qanunvericiliyi ilə portaldan istifadə etməyə hüququ vardır.
 
 <h2>2. Hesab</h2>
 İstifadəçi portalın müəyyən funksiyalarından istifadə etmək üçün hesabını qeydiyyatdan keçirməlidir. Qeydiyyatdan keçərkən istifadəçi hesab üçün şifrə müəyyən etməlidir. İstifadəçi bu xüsusda hesabının və şifrəsinin məxfiliyinin təmin olunmasına və saxlanmasına, habelə açılmış hesab və müəyyən olunmuş şifrə ilə aparılan bütün əməliyyatlara görə şəxsən məsuliyyət daşıyır. İstifadəçi portalda qeydiyyat zamanı daxil edilən, o cümlədən sonradan tələb və müvafiq olaraq təqdim olunan məlumatların düzgünlüyünə, dəqiqliyinə, cariliyinə və tamlığına təminat verir, bu məlumatlarda hər hansı dəyişiklik olarsa portalda müvafiq olaraq yeniləməyə razı olur. İstifadəçinin hesab məlumatlarının və ya şifrəsinin oğurlanması zamanı istifadəçi <a href="https://eschola.net/contact">Əlaqə</a> səhifəsi vasitəsilə portal inzibatçısını məlumatlandırmalıdır. 
@@ -44,11 +45,10 @@ e) İstifadəçi məzmununa giriş. İstifadəçiyə öz məzmununu digər bir q
 
 f) İstifadəçi məzmunu bildirişi. İstifadəçi başa düşür ki, portaldan istifadə edərkən müxtəlif mənbələrdən başqa istifadəçilərin də məzmunu ilə qarşıla bilər və portal belə istifadəçi məzmunun dəqiqliyinə, faydalılığına və ya belə məzmun üzrə müəlliflik hüquqlarının təmin olunmasına məsuliyyət daşımır. İstifadəçi həm də başa düşür ki, o, qeyri-dəqiq, xoşagəlməz və ya təhqiredici, nalayiq, yaxud da mübahisəli istifadəçi məzmunu ilə qarşılaşa bilər; İstifadəçi bununla bağlı portala qarşı ortaya çıxa biləcək hər hansı haqq və ya kompensasiya iddiasından imtina etməyə razılaşır, imtina edir, imtina etdiyini təsdiq edir, belə bir iddia ilə çıxış etməyəcəyini təsdiqləyir. Portal portalda paylaşılmış hər hansı istifadəçi məzmununu, rəyini, fikrini, tövsiyəsini və ya məsləhətini özünkü kimi təsdiq etmir və istənilən istifadəçi məzmunu ilə bağlı hər hansı məsuliyyət daşımır.
 
-g) Müəlliflik hüquqlarının qorunması. İstifadəçi başa düşür ki, tətbiq olunan hüquqa görə portaldan müəllif hüquqları qanunvericiliyini pozan məzmunun qaldırılması müəyyən oluna bilər. Bundan əlavə İstifadəçi müəlliflik hüquqları qanunvericiliyini kobud şəkildə pozduğu halda (məsələn, qəsdən və pis niyyətlə başqasının müəlliflik hüquqları birdən çox dəfə İstifadəçi tərəfindən pozulduqda) onun portaldan istifadəsi dayandırıla və ya hesabı bağlana bilər. 
+g) Müəlliflik hüquqlarının qorunması. İstifadəçi başa düşür ki, tətbiq olunan hüquqa görə portaldan müəllif hüquqları qanunvericiliyini pozan məzmunun qaldırılması müəyyən oluna bilər. Bundan əlavə İstifadəçi müəlliflik hüquqları qanunvericiliyini kobud şəkildə pozduğu halda (məsələn, qəsdən və pis niyyətlə başqasının müəlliflik hüquqları birdən çox dəfə İstifadəçi tərəfindən pozulduqda) onun portaldan istifadəsi dayandırıla və ya hesabı bağlana bilər.
 
 <h2>8. Müəllimlik qazancları</h2>
 Portalda müəllim kimi qeydiyyatdan keçən hər bir istifadəçinin portalda maksimum iki pulsuz və məhdudiyyətsiz sayda ağalabatan qiymətlə təqdim olunan pullu kurs yerləşdirmək hüququ vardır. Müəllimin kurs satışlarından qazancı hər bir satış üzrə 90 %-dir (varsa, bütün tətbiq oluna bilən vergi daxil). Satış baş verdikcə müəllim öz fərdi profilində satışlar üzrə qazancını görə bilir. Satışların ümumi məbləği 100 Azərbaycan manatını keçdikdə müəllim profilindən ödənişi tələb edə bilir. Tələb olunduqdan sonra ödəniş 30 təqvim günü müddətində müəllimin təqdim etdiyi bank hesabına köçürülür və ya mümkün olduğu halda nağd şəkildə təqdim edilir.
 
 </body>
 </html>
-
