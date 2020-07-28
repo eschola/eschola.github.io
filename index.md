@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="az">
 <head>
   İstifadə Şərtləri | <a href="https://eschola.net">eschola.net</a>
 </head>
